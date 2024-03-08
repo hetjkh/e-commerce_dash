@@ -1,0 +1,83 @@
+.nav-ul li{
+   display: inline-block;
+   padding: 10px;
+}
+
+.nav-ul li a{
+  color:#fff;
+  padding: 5px;
+  text-decoration: none;
+}
+.nav-ul{
+  background-color:skyblue;
+  margin: 0px;
+  padding: 5px;
+}
+.register , .product{
+  margin-left: 30px;
+  display: inline-block;
+}
+.login{
+  margin-left: 30px;
+  display: inline-block;
+}
+.footer{
+  position: absolute;
+  bottom: 0px;
+  text-align: center;
+  width: 100%;
+  background-color: #61dafb;
+}
+.appButton{
+  margin: 25px;
+  padding: 10px;
+  width: 150px;
+  background-color: skyblue;
+  border: 1px solid;
+  cursor: pointer;
+}
+
+.inputBox{
+  display: block;
+  margin: 45px;
+  padding: 15px;
+  width: 300px;
+  border: 1px solid skyblue;
+}
+
+.App {
+  text-align: center;
+}
+.invalid-input{
+  color: red;
+  margin-top: -20px;
+  display: block;
+  margin-left: 20px;
+}
+.product-list{
+  text-align: center;
+  margin-top: 50px;
+}
+.product-list ul li{
+  display: inline-block;
+  border: 1px solid skyblue;
+  padding: 5px;
+  width: 150px;
+}
+.product-list ul{
+  margin: 0px;
+}
+.seach-product-box{
+  width: 400px;
+  margin: 20px;
+  height: 40px;
+  border: 1px solid skyblue;
+  padding-left: 20px;
+}
+
+
+
+
+
+
+
